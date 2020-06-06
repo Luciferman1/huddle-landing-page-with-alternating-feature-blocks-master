@@ -1,0 +1,83 @@
+h5 {
+  color: #000;
+}
+     /*Navbar section*/
+.navbar-brand{
+  padding: 0% 10%;
+}
+.navbar{
+    background-color: #EDFBFE;
+    background-image: url(../images/bg-hero-desktop.svg);
+}
+.heading{
+     padding:  5% 12% 11%;	
+}
+.illustration{
+	width: 90%;
+}
+
+     /*Buttons section*/
+.button-1{  
+	  padding: 0 35px;
+	  border-radius: 20px;
+	  font-size: 1rem;
+	  background-color: #fff;
+	  box-shadow: 2px 2px 3px 3px #EDFBFE;
+	  text-shadow: 0px 1px 1px #000;
+}
+.button-2{
+	  padding: 1 15px;
+	  border-radius: 20px;
+	  font-size: 1rem;
+    background-color: #FE52C0;
+    color: #fff;
+    box-shadow: 1px 1px 2px 2px #FE52C0;
+    text-shadow: 1px 1px 1px #fff;
+}
+.button-3{
+    margin: 7% 0%; 
+    border-radius: 20px;
+    font-size: 1rem;
+    background-color: #FE52C0;
+    color: #fff;
+    box-shadow: 1px 1px 2px 2px #FE52C0;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+.image11 {
+    width: 60%;
+}
+    /*Features section*/
+#features {
+  padding: 5% 5%;
+}
+.grow-together {
+  margin: 3% 0%;
+  padding: 5% 5%;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px 5px #F8F8F8;
+  color: grey;
+}
+
+   /*footer section*/
+#footer {
+  padding: 5% 5%;
+  background-color: #00252E;
+  color: #FFF;
+}
+#Community{
+  padding: 1% 35%;
+}
+.title-Community{
+  padding: 8% 5%;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px 5px #F8F8F8;
+}
+.social-icon {
+  margin: 5% 5%;
+}
+.para{
+  padding: 35% 0%;
+}
